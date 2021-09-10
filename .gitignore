@@ -21,3 +21,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+/GitHubDesktop-linux-2.1.0-linux1.deb
